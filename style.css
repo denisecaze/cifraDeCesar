@@ -1,0 +1,25 @@
+* {
+  font-size: 16px;
+  font-family: Consolas;
+  background-color: #D0CAB3FF;
+}
+
+fieldset {
+  vertical-align: center;
+  height: 550px;
+  margin: 35px 25px 0px 25px;
+  font-size: 24px;
+  border-width: 1px;
+}
+
+p {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 80px;
+}
+
+button {
+  border-radius: 4px;
+  background-color: #DD7D85FF;
+  margin: 50px 500px 0px 500px;
+}
